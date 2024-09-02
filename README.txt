@@ -1,1 +1,1 @@
-In this repository I will be solving the Python Challenges given in https://pythonprinciples.com/challenges/ to practice my rusty Python skills.
+In this repository I will be solving the 24 Python Challenges given in https://pythonprinciples.com/challenges/ to practice my rusty Python skills.
